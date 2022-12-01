@@ -1,0 +1,25 @@
+{
+  "name": "figma-proyecto",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@techassi/vue-youtube-iframe": "^1.0.6",
+    "@vue-youtube/component": "^0.0.4",
+    "@vue-youtube/core": "^0.0.4",
+    "bulma": "^0.9.4",
+    "firebase": "^9.14.0",
+    "vue": "^3.2.45",
+    "vue-pre-youtube": "^0.2.0",
+    "vue-sweetalert2": "^5.0.5",
+    "vue-youtube-embed": "^2.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.4"
+  }
+}
